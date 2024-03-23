@@ -1,17 +1,26 @@
-# Luminous New Tab
+# ChromaTab
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Luminous new tab is a beautiful new tab browser extension that has an animated gradient background.                
-New tabs will show the time and let you do Google searches too!
+ChromaTab is an energetic and vibrant chrome extension that has an animated gradient background, forked from [Luminous New Tab](https://github.com/virejdasani/LuminousNewTab). 
 
->### Check it out on YouTube [here](https://www.youtube.com/watch?v=BWXQjgYy9-w)
+Original Features:
+- An animated gradient background
+- A clock
+- A widget showing the weather
+- Bookmarks
+- Web search
+
+Planned Features:
+- Improved bookmark manager with folders
+- New backgrounds
+- Options for changing background colors
+- New widgets
 
 ## ⬇ Download
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" width="30"> [Chrome](https://chrome.google.com/webstore/detail/luminous-new-tab/gakanaedbiohimbhbddcilejbpdmobdo)
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" width="30"> [Firefox](https://addons.mozilla.org/en-US/firefox/addon/luminous-tab/)
+ChromaTab is still under development. Downloads will be available when it is complete. 
 
-## 📷 Screenshots
+## 📷 Screenshots (old)
 ![](https://github.com/virejdasani/LuminousNewTab/blob/master/StoreAssets/SC1.png)
 ![](https://github.com/virejdasani/LuminousNewTab/blob/master/StoreAssets/SC2.png)
 ![](https://github.com/virejdasani/LuminousNewTab/blob/master/StoreAssets/SC3.png)
@@ -22,7 +31,7 @@ For contributions please check out [CONTRIBUTING.md](/CONTRIBUTING.md)
 ## 📄 License
 Distributed under the **MIT LICENSE**. See [LICENSE](/LICENSE) for more information.
 
-## Contributors ✨
+## Contributors to the original Luminous New Tab
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
